@@ -1,0 +1,10 @@
+2014-06-25
+Root Directory: C:\Users\hari\Documents\Python
+Total Number of Lines of Code: 2855 Total Number of Comment Lines: 1163 Total Number of Embedded Comments: 203 
+Total Number of Program Files: 106 
+Ratio of Lines of Code to Comments: 2 (lines of code) to 1 (line of comments) 
+2014-07-11
+Root Directory: C:\Users\hari\Documents\Python
+Total Number of Lines of Code: 3229 Total Number of Comment Lines: 1206 Total Number of Embedded Comments: 228 
+Total Number of Program Files: 112 
+Ratio of Lines of Code to Comments: 2 (lines of code) to 1 (line of comments) 
