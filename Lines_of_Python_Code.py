@@ -41,6 +41,12 @@ def file_length(file_path, show=False):
     embeddedcomments = embeddedcomments - linecomments
     return linenum, linecomments, embeddedcomments
 
+def gen_files(directory):
+    # generator to get all python files in a directory
+    for file in directory:
+        if file.endswith('.py'):
+            yield file
+
 def line_calculator(directory_path, statslist, pltlist):
     # files in the current directory
     files = os.listdir(directory_path)
